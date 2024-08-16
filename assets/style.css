@@ -162,11 +162,11 @@ header{
     max-width: 310px;
     top: -420px;
 }
-.sec1 a .whatsapp{
-    position: relative;
-    top: -103%;
+.whatsapp{
+    position: fixed;
+    top: 90%;
     float: right;
-    left: -3%;
+    left: 95%;
     width: 45px;
     animation: wtspanim infinite 2s linear;
 
