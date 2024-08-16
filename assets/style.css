@@ -79,8 +79,8 @@ header{
     display: none;
     text-decoration: none;
     color: var(--orange-red);
-    /* margin-left: 100px; */
-    /* position: relative; */
+    left: 20%;
+    position: relative;
     /* font-size: 18px; */
 }
 .navmenu .bi-x-lg{
